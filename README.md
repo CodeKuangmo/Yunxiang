@@ -56,6 +56,7 @@ aircrack-ng 捕获的ivs文件
 ## 二、wap-psk破解
 
 ### 1、升级Aircrack-ng
+
 最好对airodump-ng的OUI库进行升级，先进入到Aircrack-ng的安装目录下，然后输入命令如下：
 
 ```
