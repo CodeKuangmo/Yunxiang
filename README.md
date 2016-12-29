@@ -4,12 +4,15 @@
 
 
 ## 一、wep破解
+
 ### 1、载入无线网卡
+
 ```
 ifconfig -a查看网卡
 ifconfig wlan0 up加载网卡
 iwconfig只查看无线网卡
 ```
+
 ### 2、激活无线网卡只monitor监听模式
 ```
 airmon-ng start 上面查看的网卡名
